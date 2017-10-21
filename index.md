@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## TOS
 
-You can use the [editor on GitHub](https://github.com/cocoestatico/tos-pebox-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+– Nosotros no reproducimos, plagiamos, distribuimos ni comunicamos públicamente, películas, series y/o documentales que puedan tener derechos de autor.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+– Los enlaces que figuran en esta app han sido encontrados en páginas de la índole de YouTube, Veoh, vk, Video4You, Powvideo, Openload, Streaming.to… y han sido publicados por diferentes usuarios y desconocemos si los mismos tienen contratos de cesión de derechos sobre estos videos para reproducirlos, alojarlos o permitir su descarga.
 
-### Markdown
+– No nos hacemos responsables del uso indebido que puedas hacer del contenido de nuestra app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+– En ningún caso o circunstancia se podrá responsabilizar directamente o indirectamente al propietario ni a los colaboradores del ilícito uso de la información contenida en  pebox. Así mismo tampoco se nos podrá responsabilizar directamente o indirectamente de incorrecto uso o mala interpretación que se haga de la información y servicios incluidos. Igualmente quedara fuera de nuestra responsabilidad el material al que usted pueda acceder desde nuestros enlaces.
 
-```markdown
-Syntax highlighted code block
+– Todo la información y programas aquí recogidos van destinados al efectivo cumplimiento de los derechos recogidos en el artículo 31 RD/1/1996 por el que se aprueba el texto refundido de la Ley de la Propiedad Intelectual (LPI) en especial referencia al artículo 31.2 LPI, y en concordancia con lo expresado en el artículo 100.2 de esta misma ley. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cocoestatico/tos-pebox-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+– La visita o acceso a esta app, exige la aceptación del presente aviso. En esta app se podrá acceder a contenidos publicados por YouTube, Veoh, vk, Video4You, Powvideo, Openload, Netu.tv… etc. El único material que existe en la app son enlaces a dicho contenido, facilitando únicamente su visionado. Los propietarios de YouTube, Veoh, vk, Video4You, Powvideo, Played.to, Netu.tv… son plenamente responsables de los contenidos que publiquen. Por consiguiente,pebox ni aprueba, ni hace suyos los productos, servicios, contenidos, información, datos, opiniones archivos y cualquier clase de material existente en YouTube, Veoh, vk, Video4You, Powvideo, Played.to, Netu.tv… y no controla ni se hace responsable de la calidad, licitud, fiabilidad y utilidad de la información, contenidos y servicios existentes en YouTube, Veoh, vk, Flashx, Powvideo, Openload, Netu.tv, etc.
